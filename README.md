@@ -1,4 +1,4 @@
-caliquant-shop-banner.png
+![CaliQuant Shop Banner](./A_cover_image_for_a_GitHub_repository_is_designed_.png)
 # CaliQuant Shop – E-commerce Demo Website
 
 **CaliQuant Shop** is a beautifully designed demo e-commerce website built to showcase web design skills and product layout for portfolio purposes. It is not a real store and does not process actual transactions.
