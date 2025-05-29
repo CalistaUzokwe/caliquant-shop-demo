@@ -1,3 +1,7 @@
+## About Me  
+Data Analyst & Accounting Professional skilled in Python, Excel, SQL, and Power BI.  
+Also a Web Designer and Published Author, open to remote work & visa sponsorship opportunities.
+
 # CaliQuant Shop – E-commerce Demo Website
 
 **CaliQuant Shop** is a beautifully designed demo e-commerce website built to showcase web design skills and product layout for portfolio purposes. It is not a real store and does not process actual transactions.
